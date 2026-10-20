@@ -1,5 +1,5 @@
 Proje Yazarı: Ahmet Rüzgar İpşir
-# Projenin Adı: Kod-Asistan v0.1
+# Projenin Adı: Kod-Asistanı v0.1
 ## Projenin Amacı: Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak bir uygulama tasarlamak.
 ## Projenin Hedefleri: v0.1 – Temel Asistan: Kullanıcıyı selamlama, basit hesaplamalar yapma ve belirli komutlara yanıt verme.
 v0.5 – Gelişmiş İşlemler: Çarpma, bölme, çıkarma ve toplama gibi matematiksel işlemleri geliştirme.

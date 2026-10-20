@@ -23,7 +23,8 @@ BAŞLA
     DEĞİLSE
         "Kritik eşik değerinin altında." yaz
     BİTİR
-BİTİR
+     BİTİR
+
 Bu algoritma, programlamada karşılaştırma ve koşul ifadelerinin kullanımını göstermektedir. Eşik değeri ve karşılaştırma koşulu, daha önce hazırlanan Kritik Eşik projesindeki kurallara göre düzenlenmelidir.
 ## Ahilik Kültürü ve Yazılım Etiği
 Ahilik kültüründe önemli olan ustaya saygı, dürüstlük ve doğru iş yapma ilkeleri, yazılım geliştirme sürecinde de önemlidir.
